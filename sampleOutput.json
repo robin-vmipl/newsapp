@@ -1,0 +1,267 @@
+
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+    {
+        "source": {
+        "id": "cnn",
+        "name": "CNN"
+        },
+        "author": "Michael Williams, MJ Lee, Donald Judd",
+        "title": "Trump, Gaza conflict loom large at Biden’s high-profile NYC fundraiser - CNN",
+        "description": "President Joe Biden went after Donald Trump at his New York City fundraiser on Thursday, where he was joined by former Presidents Barack Obama and Bill Clinton at a star-studded event that was at times interrupted by protesters calling for a ceasefire in Gaza.",
+        "url": "https://www.cnn.com/2024/03/28/politics/biden-obama-clinton-nyc-fundraiser/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240327-bidenobamaclintonsplit.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-03-29T05:53:00Z",
+        "content": "President Joe Biden went after Donald Trump at his New York City fundraiser on Thursday, where he was joined by former Presidents Barack Obama and Bill Clinton at a star-studded event that was at tim… [+6719 chars]"
+    },
+    {
+        "source": {
+        "id": "espn",
+        "name": "ESPN"
+        },
+        "author": "ESPN",
+        "title": "Men's March Madness 2024: Sweet 16 tournament takeaways - ESPN",
+        "description": "And just like that, we have one fewer 1-seed and 2-seed left. While the West was upset, UConn continued to dominate the East and Illinois is moving on.",
+        "url": "https://www.espn.com/mens-college-basketball/story/_/id/39828744/march-madness-2024-sweet-16-mens-ncaa-tournament-takeaways",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0329%2Fr1311328_2_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-03-29T05:48:32Z",
+        "content": "Mar 29, 2024, 12:51 AM ET\r\nIt was a bad, bad Sweet 16 for the favorites. Unless of course your name is UConn.\r\nIn the West Region, Alabama stayed with No. 1 seed North Carolina all night long, then o… [+10555 chars]"
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "BBC News"
+        },
+        "author": null,
+        "title": "Russia shuts down UN watchdog tracking North Korea sanctions - BBC.com",
+        "description": "The group was investigating Russia's reported violations in using North Korean weapons in Ukraine.",
+        "url": "https://www.bbc.com/news/world-asia-68691417",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12AEC/production/_133042567_kimrussia.png",
+        "publishedAt": "2024-03-29T05:20:28Z",
+        "content": null
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "Variety"
+        },
+        "author": "Steven J. Horowitz",
+        "title": "Beyonce Rewrites Dolly Parton’s ‘Jolene’ Lyrics to Deliver Fiery Cover on ‘Cowboy Carter’ - Variety",
+        "description": "Beyoncé puts her own spin on Dolly Parton's 1973 classic 'Jolene' on her latest album 'Cowboy Carter.'",
+        "url": "https://variety.com/2024/music/news/beyonce-jolene-cover-updates-dolly-parton-lyrics-1235955106/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2024/03/FotoJet-7.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2024-03-29T05:06:00Z",
+        "content": "It looks like Dolly Parton hinted correctly. After the country icon said that she believed that Beyoncé would sample or interpolate her 1973 classic “Jolene” for her new album, Bey has done just that… [+2511 chars]"
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "YouTube"
+        },
+        "author": null,
+        "title": "Warnings ahead of total solar eclipse, what to expect and more - CBS News",
+        "description": "A total solar eclipse will darken U.S. skies in April 2024. Here's what to know about the rare event — from NASA's warning to the best places to watch.#news ...",
+        "url": "https://www.youtube.com/watch?v=gsdZ9Xb_Usg",
+        "urlToImage": "https://i.ytimg.com/vi/gsdZ9Xb_Usg/maxresdefault.jpg",
+        "publishedAt": "2024-03-29T04:05:53Z",
+        "content": null
+    },
+    {
+        "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+        },
+        "author": "USA TODAY",
+        "title": "Baltimore bridge collapse: Cargo ship audio reveals intense moments - USA TODAY",
+        "description": null,
+        "url": "https://www.usatoday.com/story/news/nation/2024/03/28/baltimore-bridge-collapse-dali-ship-timeline-audio-recording/73138004007/",
+        "urlToImage": null,
+        "publishedAt": "2024-03-29T03:35:30Z",
+        "content": null
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "Deadline"
+        },
+        "author": "Bruce Haring",
+        "title": "Melissa Joan Hart On ‘Quiet On Set’ Allegations: “I Absolutely Trust Them, Believe Them, One Hundred Per Cent” - Deadline",
+        "description": "The former Nickelodeon star talks in the wake of the shocking 'Quiet On Set' documentary.",
+        "url": "http://deadline.com/2024/03/melissa-joan-hart-on-quiet-on-set-allegations-1235871403/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/sabrina-the-teenage-with-melissa-joan-hart.jpg?w=1024",
+        "publishedAt": "2024-03-29T03:11:00Z",
+        "content": "Appearing on the Meghan McCain Has Entered The Chat podcast, 47-year-old Melissa Joan Hart is the latest former Nickelodeon star to comment on the shocking documentary Quiet On Set, which detailed al… [+1585 chars]"
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+        },
+        "author": "Jori Epstein",
+        "title": "After Jayden Daniels and Drake Maye's pro days, the Commanders may hold the keys to the NFL Draft - Yahoo Sports",
+        "description": "The No. 1 pick seems to be a foregone conclusion, which means all eyes are on the Commanders and their decision that likely boils down to two QBs.",
+        "url": "https://sports.yahoo.com/after-jayden-daniels-and-drake-mayes-pro-days-the-commanders-may-hold-the-keys-to-the-nfl-draft-024939474.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fV32CauZr3Zz2l7r51ZrwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/c7f45860-ed75-11ee-bc3f-fee44e1fd18d",
+        "publishedAt": "2024-03-29T02:49:00Z",
+        "content": "ORLANDO, Fla. If you want confirmation on where the 2024 NFL Draft really starts, just ask New England Patriots head coach Jerod Mayo.\r\nI think everyone knows what Chicago is going to do at 1, Mayo s… [+7773 chars]"
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "Arizona Desert Swarm"
+        },
+        "author": "Brian J. Pedersen",
+        "title": "NCAA Tournament: What Tommy Lloyd, Arizona players said after Sweet 16 loss to Clemson - Arizona Desert Swarm",
+        "description": "LOS ANGELES—Arizona has reached the Sweet 16 twice in the first three year under Tommy Lloyd, but both times it has lost in that round to a lower-seeded team. Does that make the 2023-24 season a...",
+        "url": "https://www.azdesertswarm.com/basketball/2024/3/28/24115222/arizona-wildcats-ncaa-tournament-clemson-tommy-lloyd-boswell-bradley-kj-keshad-love-pelle-ballo-2024",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/-HKt-TnIVeDcQL5DORvoFKQj7kU=/0x0:4287x2245/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25360999/2121265554.jpg",
+        "publishedAt": "2024-03-29T02:45:46Z",
+        "content": "LOS ANGELESArizona has reached the Sweet 16 twice in the first three year under Tommy Lloyd, but both times it has lost in that round to a lower-seeded team. Does that make the 2023-24 season a disap… [+10727 chars]"
+    },
+    {
+        "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+        },
+        "author": "Frances Vinall, Victoria Bisset, Adam Taylor, Sammy Westfall, Manuel Canales, Sufian Taha, Karen DeYoung, Helier Cheung",
+        "title": "ICJ orders Israel to act on aid crisis in Gaza; Palestinian Authority names new cabinet - The Washington Post",
+        "description": "The International Court of Justice issued measures strengthening its January order that Israel do more to supply aid to civilians in Gaza.",
+        "url": "https://www.washingtonpost.com/world/2024/03/28/israel-hamas-war-news-gaza-palestine/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2TDTK5W2QB54REMCWZXU6B3IEA_size-normalized.jpg&w=1440",
+        "publishedAt": "2024-03-29T01:40:50Z",
+        "content": null
+    },
+    {
+        "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+        },
+        "author": "Gregory S. Schneider",
+        "title": "Va. Gov. Youngkin arrived like a GOP star, but arena failure clouds legacy - The Washington Post",
+        "description": "The Republican parlayed business success into the Governor’s Mansion, but the failed deal to move the Wizards and Capitals to a new arena in Virginia is a political setback.",
+        "url": "https://www.washingtonpost.com/dc-md-va/2024/03/28/virginia-youngkin-wizards-arena-legacy/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CNGXLWVHJ6D6BS5U5LODFIFYEA_size-normalized.JPG&w=1440",
+        "publishedAt": "2024-03-29T01:26:00Z",
+        "content": "RICHMOND No Virginia governor has come into office with a deeper dealmaking background than Glenn Youngkin, who as former co-chief executive of the Carlyle Group made a fortune acquiring and merging … [+8916 chars]"
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "BBC News"
+        },
+        "author": null,
+        "title": "Fallen 'Crypto King' Sam Bankman-Fried gets 25 years for fraud - BBC.com",
+        "description": "The crypto exchange co-founder was convicted last year of stealing $8bn from investors.",
+        "url": "https://www.bbc.com/news/business-68677487",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/86D2/production/_133041543_f12c6e5ed54bb621968c76ba14ca4e3f896232e40_204_3000_16881000x563.jpg",
+        "publishedAt": "2024-03-29T01:21:25Z",
+        "content": null
+    },
+    {
+        "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+        },
+        "author": "STEVE PEOPLES",
+        "title": "Joe Lieberman's death leaves a hole at No Labels as it tries to recruit a 2024 third-party candidate - The Associated Press",
+        "description": "Joe Lieberman served as No Labels' chief defender when the critics got the loudest. The centrist group he helped create ignited a political firestorm over the last year by working to recruit a third-party presidential campaign that some feared might tilt the …",
+        "url": "https://apnews.com/article/lieberman-no-labels-christie-trump-biden-90b74fedecf72880d41e900fec3da7f2",
+        "urlToImage": "https://dims.apnews.com/dims4/default/8ff5a14/2147483647/strip/true/crop/5691x3201+0+296/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2Fa1%2Fc12d3c8deff2dbc4d1ce8e681093%2Fae08c79584e14f6da4aeeeb0a73dc625",
+        "publishedAt": "2024-03-29T00:30:00Z",
+        "content": "NEW YORK (AP) When No Labels critics got the loudest, it was Joe Lieberman who came to the groups defense.\r\nThe former Connecticut senator was a founding chairman of the centrist organization that fo… [+5293 chars]"
+    },
+    {
+        "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+        },
+        "author": "Tara Suter",
+        "title": "Biden ‘horrified’ by Illinois stabbings that killed 4 people - The Hill",
+        "description": "President Biden said in a statement Thursday that he is “horrified” by a recent stabbing spree in Rockford, Ill. “[First lady Jill Biden] and I were horrified to learn of the brutal attack carried out in Rockford last night, which took the lives of four peopl…",
+        "url": "https://thehill.com/homenews/administration/4562704-biden-horrified-by-illinois-stabbings-that-killed-four/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/bidenjoesc1_010823_ap.jpg?w=1280",
+        "publishedAt": "2024-03-29T00:14:00Z",
+        "content": "Skip to content\r\nPresident Biden said in a statement Thursday that he is “horrified” by a recent stabbing spree in Rockford, Ill.\r\n“[First lady Jill Biden] and I were horrified to learn of the brutal… [+2087 chars]"
+    },
+    {
+        "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+        },
+        "author": null,
+        "title": "2024 NFL Mock Draft: Five QBs selected in Colin Cowherd's 12-pick mock - FOX Sports",
+        "description": "FOX Sports' Colin Cowherd has five quarterbacks picked in the top 12 of his 2024 NFL Mock Draft, along with a trade he says is \"what Jim Harbaugh wants\" at No. 5.",
+        "url": "https://www.foxsports.com/stories/nfl/2024-nfl-mock-draft-four-qbs-selected-in-colin-cowherds-12-pick-mock",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/03/1408/814/2024-03-28_Colin-Cowherds-2024-NFL-Mock-Draft_16x9.jpg?ve=1&tl=1",
+        "publishedAt": "2024-03-28T23:22:16Z",
+        "content": "The 2024 NFL Draft is less than a month away, and Colin Cowherd has entered the mock draft fray by predicting the first 12 picks of April's draft. Cowherd said his mock draft comes not only based on … [+7161 chars]"
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "New York Post"
+        },
+        "author": "Selim Algar",
+        "title": "Sean 'Diddy' Combs' alleged 'drug mule' looks worried in bodycam video showing arrest on drug charges - New York Post ",
+        "description": "Bodycam footage showed the tattooed former college basketball basketball being led from a building in handcuffs to an awaiting police car.",
+        "url": "https://nypost.com/2024/03/28/us-news/diddys-alleged-drug-mule-appears-glum-after-arrest-on-pot-and-cocaine-possession-raps/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-mjd5rrngd-1711663931363.jpg?quality=75&strip=all&1711649554&w=1024",
+        "publishedAt": "2024-03-28T22:51:58Z",
+        "content": "Diddy’s alleged “drug mule” appeared glum and resigned Monday in a video of his arrest at a Florida airport.\r\nBodycam footage shows former college basketball player Brendan Paul being led from a US C… [+4295 chars]"
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "Tom's Guide"
+        },
+        "author": "Nick Pino",
+        "title": "Vizio just announced a ginormous 86-inch 4K TV for a staggeringly cheap price - Tom's Guide",
+        "description": "$999 for this size is unheard of",
+        "url": "https://www.tomsguide.com/tvs/vizio-announces-ginormous-86-inch-4k-tv-for-a-staggeringly-cheap-price",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/takD8HpKMFu9oSrQcrcv7G-1200-80.jpg",
+        "publishedAt": "2024-03-28T21:52:44Z",
+        "content": "For years, Vizio has been known as a value TV maker by offering large screen sizes for around half the cost of Samsung or Sony TVs. The latest addition to its 2024 lineup, an 86-inch version of its 4… [+2424 chars]"
+    },
+    {
+        "source": {
+        "id": "politico",
+        "name": "Politico"
+        },
+        "author": "POLITICO",
+        "title": "Super PAC raises $2.1 million after RFK Jr. picked Nicole Shanahan - POLITICO",
+        "description": null,
+        "url": "https://www.politico.com/news/2024/03/28/american-values-pac-fundraiser-nicole-shanahan-00149628",
+        "urlToImage": null,
+        "publishedAt": "2024-03-28T21:52:32Z",
+        "content": null
+    },
+    {
+        "source": {
+        "id": null,
+        "name": "GMA"
+        },
+        "author": "Dr. Jennifer Miao",
+        "title": "Eating a dozen eggs a week doesn't hurt your cholesterol: Study - Good Morning America",
+        "description": "A new study found no meaningful change in levels of \"good\" and \"bad\" cholesterol in people who ate a dozen eggs a week.",
+        "url": "https://www.goodmorningamerica.com/food/story/eating-dozen-eggs-week-hurt-cholesterol-study-108553012",
+        "urlToImage": "https://s.abcnews.com/images/GMA/eggs-1-as-gmh-240327_1711555375191_hpMain_16x9_992.jpg",
+        "publishedAt": "2024-03-28T21:22:30Z",
+        "content": "Eating more than a dozen fortified eggs each week did not negatively affect cholesterol levels compared to an egg-free diet among U.S. adults aged 50 or older, according to a new study to be presente… [+2777 chars]"
+    },
+    {
+        "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+        },
+        "author": "MELANIE LIDMAN",
+        "title": "Israeli court halts subsidies for ultra-Orthodox, deepening turmoil over mandatory military service - The Associated Press",
+        "description": "Israel’s Supreme Court has ordered an end to government subsidies for many ultra-Orthodox men who don't serve in the army. It's a blockbuster ruling that could have far-reaching consequences for Israel’s government and the tens of thousands of religious men w…",
+        "url": "https://apnews.com/article/israel-war-mandatory-military-service-law-ultraorthodox-2e562538fe72a32edf76343f83df541d",
+        "urlToImage": "https://dims.apnews.com/dims4/default/d2dd575/2147483647/strip/true/crop/8475x4767+0+441/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F52%2Ff118305d8290fec76eee3e897438%2F2588d7c9afd6494691a987f6cbb673ab",
+        "publishedAt": "2024-03-28T21:21:00Z",
+        "content": "TEL AVIV, Israel (AP) Israels Supreme Court on Thursday ordered an end to government subsidies for many ultra-Orthodox men who do not serve in the army a blockbuster ruling that could have far-reachi… [+3551 chars]"
+    }
+    ]
+}
